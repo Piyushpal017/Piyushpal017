@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Pal</h1>
 <h3 align="center">A passionate Computer Science Engineering student from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fridoystarlord%2Fridoystarlord%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw0vnPrtXgOIBEbp_L7qMKQe&ust=1729360609568000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi32L3AmIkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpal017&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpal017" /> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/piyush-pal-1aa4162b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
